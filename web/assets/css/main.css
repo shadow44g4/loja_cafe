@@ -299,7 +299,15 @@ input, select, textarea {
 		hr.major {
 			margin: 3em 0;
 		}
-
+        .circle{
+            border-radius:100%;
+            width:2%;
+            height:2%;
+            background-color:#5F3711;
+            position: absolute;
+            top:4%;
+            left:86.5%;
+        }
 	.align-left {
 		text-align: left;
 	}
